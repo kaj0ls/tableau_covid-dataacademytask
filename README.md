@@ -5,4 +5,5 @@ The main goal this project is remake the WHO (World Health Organization) https:/
   3. Cases Per Province
   4. Confirmed Cases
   5. Death 
+ 
 Link Dashboard : https://public.tableau.com/app/profile/khamzulr/viz/Khamzulr_Madiun/Dashboard1
